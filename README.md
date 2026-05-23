@@ -62,11 +62,3 @@ The analysis shows that Airbnb performance is driven more by availability, flexi
 3. Open the notebook:
    jupyter notebook
 
-## Repository Structure
-├── notebooks/        # Jupyter notebooks for analysis
-├── data/             # Dataset files (raw and processed)
-├── figures/         # Generated visualizations
-├── README.md        # Project documentation
-
-## Author
-Nour Swaid
